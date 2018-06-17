@@ -4,4 +4,4 @@ Installation:
 
 Location Picture in location.png
 
-All credit for the making of the map is to ArthurLopes.
+All credit for the making of the map is to Stuart688.
